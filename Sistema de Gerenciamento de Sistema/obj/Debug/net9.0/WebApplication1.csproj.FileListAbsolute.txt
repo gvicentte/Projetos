@@ -1,0 +1,40 @@
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\bin\Debug\net9.0\WebApplication1.exe
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\bin\Debug\net9.0\WebApplication1.deps.json
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\bin\Debug\net9.0\WebApplication1.runtimeconfig.json
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\bin\Debug\net9.0\WebApplication1.dll
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\bin\Debug\net9.0\WebApplication1.pdb
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\WebApplication1.dll
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\refint\WebApplication1.dll
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Gabriel Vicentte\Downloads\Faculdade Codigos\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\bin\Debug\net9.0\WebApplication1.exe
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\bin\Debug\net9.0\WebApplication1.deps.json
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\bin\Debug\net9.0\WebApplication1.runtimeconfig.json
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\bin\Debug\net9.0\WebApplication1.dll
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\bin\Debug\net9.0\WebApplication1.pdb
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\WebApplication1.sourcelink.json
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\WebApplication1.dll
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\refint\WebApplication1.dll
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\WebApplication1.pdb
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Gabriel Vicentte\Downloads\Projetos\Sistema de Gerenciamento de Sistema\obj\Debug\net9.0\ref\WebApplication1.dll
