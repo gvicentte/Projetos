@@ -1,0 +1,235 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+    font-size: 16px;
+    text-size-adjust: 100%;
+}
+head{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-size-adjust: 100%;
+}
+body {
+    margin: 0;
+    padding: 20px;
+    text-size-adjust: 100%;
+}
+nav, header, footer {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+}
+ul, ol {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-weight: bold;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: #749dc8;
+    font-size: 2em;
+    text-size-adjust: 100%;
+}
+h2 {
+    font-weight: bold;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: #749dc8;
+    font-size: 1.5em;
+    margin-top: 20px;
+    text-size-adjust: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    font-family: "Segoe UI", sans-serif;
+    background: linear-gradient(135deg, #0d1b2a, #1b263b, #415a77, #2f6690);
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
+    color: #f1f1f1;
+  }
+@keyframes gradientBG {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+p {
+    text-size-adjust: 100px;
+    text-align: justify;
+    text-indent: 70px;
+    line-height: 1.6;
+    font-size: 1em;
+}
+a {
+    font-weight: bold;
+    color: #2980b9;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+footer {
+    margin-top: 20px;
+    font-size: 0.8em;
+    color: #7f8c8d;
+}
+nav {
+    background-color: #ecf0f1;
+    padding: 10px;
+    border-radius: 5px;
+}
+nav a {
+    margin-right: 15px;
+    color: #34495e;
+}
+nav a:hover {
+    color: #1abc9c;
+}
+article {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+section {
+    margin-bottom: 20px;
+}
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+blockquote {
+    border-left: 4px solid #bdc3c7;
+    padding-left: 15px;
+    color: #7f8c8d;
+    font-style: italic;
+}
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    h1 {
+        font-size: 1.5em;
+    }
+    nav {
+        padding: 5px;
+    }
+    nav a {
+        margin-right: 10px;
+    }
+}
+@media (min-width: 601px) {
+    body {
+        padding: 20px;
+    }
+    h1 {
+        font-size: 2em;
+    }
+    nav {
+        padding: 10px;
+    }
+    nav a {
+        margin-right: 15px;
+    }
+}
+li {
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.icones-redes li {
+    display: flex;
+    list-style: none;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.icones-redes a {
+    display: flex;
+    align-items: left;
+    font-size: 18px;
+    color: #0d1b2a;
+    gap: 10px;
+}
+
+.icones-redes img {
+    align-items: left;
+    width: 24px;
+    height: 24px;
+}
+.icones-redes a:hover {
+    color: #1b263b;
+    text-decoration: underline;
+}
+h3{
+    text-align: center;
+    font-size:larger;
+    font-weight: normal;
+}
+#habilidade {
+    text-align: center;
+    font-size: larger;
+    font-weight: normal;
+    margin-top: 20px;
+}
+#copy {
+    text-align: center;
+    font-size: small;
+    color: #070707;
+    margin-top: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+#foto-perfil {
+    border-radius: 25%;
+    border: 2px solid #749dc8;
+    box-shadow: 10px 40px 20px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+}
+#menu {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: auto;
+}
+#menu li {
+    display: inline;
+    margin-right: 20px;
+}
+#menu a {
+    color: #2980b9;
+    text-decoration: none;
+    font-weight: bold;
+}
+#menu a:hover {
+    text-decoration: underline;
+}
+#menu li:last-child {
+    margin-right: 0;
+}
+#menu li a {
+    color: #2c3e50;
+    font-size: 1.2em;
+}
+#menu li a:hover {
+    color: #16a085;
+}
